@@ -1,6 +1,7 @@
-
-
+package arrays;
+/* dimensional arrays  */
 public class DimensionalArrays {
+    // The above code can be written in a more efficient way using arrays and loops.
     public static void main(String[] args) {
         int[][] arr = new int[][]{
             {10,20,30},

@@ -1,3 +1,4 @@
+package Basics;
 import java.util.Scanner; // import the function Scanner for scan the input .
 public class Userinput { // the class.
     public static void main(String[] args) {

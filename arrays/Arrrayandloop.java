@@ -1,3 +1,4 @@
+package arrays;
 public class Arrrayandloop {
     // The above code can be written in a more efficient way using arrays and loops.
     public static void main(String[] args) {
